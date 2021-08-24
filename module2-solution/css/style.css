@@ -44,7 +44,6 @@ p {
 .section{
     background-color: burlywood;
     border:2px solid blue;
-    height: auto;
     margin-top: 20px;
     margin-right:20px;
     padding: 3px
